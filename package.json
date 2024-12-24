@@ -1,0 +1,31 @@
+{
+  "name": "convenient-template-cli",
+  "author": "JeshoNg",
+  "version": "1.0.0",
+  "description": "cli front-end development tools",
+  "keywords": [
+    "vue",
+    "cli",
+    "convenient",
+    "template"
+  ],
+  "main": "index.js",
+  "bin": {
+    "ct": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhishouH/convenient-template-cli.git"
+  },
+  "homepage": "https://github.com/zhishouH/convenient-template-cli",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.1.0",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.4"
+  }
+}
