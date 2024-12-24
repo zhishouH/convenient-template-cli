@@ -1,7 +1,7 @@
 {
   "name": "convenient-template-cli",
   "author": "JeshoNg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "cli front-end development tools",
   "keywords": [
     "vue",
